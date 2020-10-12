@@ -1,5 +1,5 @@
 # fluorite & fluorspar
-Programming typeface, customized version of [Iosevka](https://github.com/be5invis/Iosevka). 
+Programming typeface, custom build of [Iosevka](https://github.com/be5invis/Iosevka). 
 
 ## Preview
 fluorspar
