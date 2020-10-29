@@ -3,7 +3,7 @@ Programming typeface, custom build of [Iosevka](https://github.com/be5invis/Iose
 
 ## Preview
 FeuxPro
-![FeuxPro Preview](https://i.loli.net/2020/10/29/oI78m5zxJsvCtfl.pngg)
+![FeuxPro Preview](https://i.loli.net/2020/10/29/oI78m5zxJsvCtfl.png)
 <br />
 FeuxPro Tens
 ![FeuxPro Tens Preview](https://i.loli.net/2020/10/29/Q4D8APrlivFSLha.png)
